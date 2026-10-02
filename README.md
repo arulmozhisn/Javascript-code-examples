@@ -1,2 +1,2 @@
 # Javascript-code-examples
-for learning javascript 
+for learning Javascript 
